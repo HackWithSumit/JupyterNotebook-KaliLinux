@@ -7,3 +7,14 @@
 The Jupyter Notebook is a web-based interactive computing platform. The notebook combines live code, equations, narrative text, visualizations.
 <br>
 
+<b>Installation Guide:</b>
+<br>
+
+Step 1: Install pip with below command
+
+     pip install notebook
+     
+Step 2: Install Jupyter Notebook with this command
+
+     sudo apt-get install jupyter-notebook
+
