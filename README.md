@@ -21,6 +21,9 @@ Step 2: Install Jupyter Notebook with this command
 <br>
 Issues:
 
+<br>
+<br>
+
 <b>KernelSpec Issue Not Found (Fix --> 7th April 2023)</b>
 
 <b>Python3 ipykernel Not Show up (Fix --> 7th April 2023)</b>
