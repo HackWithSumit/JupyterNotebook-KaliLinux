@@ -19,8 +19,11 @@ Step 2: Install Jupyter Notebook with this command
      sudo apt-get install jupyter-notebook
      
 <br>
+Issues:
 
 <b>KernelSpec Issue Not Found (Fix --> 7th April 2023)</b>
+
+<b>Python3 ipykernel Not Show up (Fix --> 7th April 2023)</b>
 
 Install virtualenv :
 
