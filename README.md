@@ -28,6 +28,10 @@ Issues:
 
 <b>Python3 ipykernel Not Show up (Fix --> 7th April 2023)</b>
 
+![Screenshot from 2023-04-13 14-25-28](https://user-images.githubusercontent.com/120317751/231708371-9f74ada1-5ec9-4341-9d3c-046dd7be0c61.png)
+
+
+
 Install virtualenv :
 
        sudo apt-get install virtualenv
