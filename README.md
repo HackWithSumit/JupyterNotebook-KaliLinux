@@ -44,6 +44,12 @@ Install pip3:
        
 <br>
 
+Jupyter KernelSpec:
+
+         jupyter kernelspec list
+
+Type: Y
+
 Check that the Linux system is now running Python in (target folder)/bin/ and not the system Python:
 
         which python
