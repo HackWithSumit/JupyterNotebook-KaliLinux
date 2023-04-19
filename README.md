@@ -100,5 +100,13 @@ Fixed:
 ![Screenshot from 2023-04-07 10-28-07](https://user-images.githubusercontent.com/120317751/230544025-10a8963d-9c7a-4760-9482-504c23226f0a.png)
 
 
+
+
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/HackWithSumit/count.svg" />
+</p>
+
+
      
 
