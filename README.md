@@ -1,10 +1,8 @@
-> 1 / 1
-> 
-> how to install jupyter notebook in kali linux with poc
+JuoyterNotebook-KaliLinux
 
-ChatGPTChatGPT
+![213877070-366d6c2d-0d13-434b-948f-78ab3b846d79](https://user-images.githubusercontent.com/120317751/235748727-48facdc4-5823-4b6f-b4f7-f30d5fcfb48a.png)
 
-1 / 1
+
 
 To install Jupyter Notebook on Kali Linux, you can follow these steps:
 
@@ -12,7 +10,7 @@ To install Jupyter Notebook on Kali Linux, you can follow these steps:
     
 2.  Update the package list by running the command:
     
-    sql
+    
     
     ```sql
     sudo apt-get update
@@ -20,7 +18,7 @@ To install Jupyter Notebook on Kali Linux, you can follow these steps:
     
 3.  Install the required dependencies by running the following command:
     
-    arduino
+    
     
     ```arduino
     sudo apt-get install python3-pip python3-dev
@@ -32,7 +30,7 @@ To install Jupyter Notebook on Kali Linux, you can follow these steps:
     
 5.  Generate a Jupyter Notebook configuration file by running the following command:
     
-    arduino
+ 
     
     ```arduino
     jupyter notebook --generate-config
